@@ -11,6 +11,9 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.example.a10119039_findresto.databinding.ActivityMapsBinding;
+// Nama   : Diva Sabila Ramadhan
+// NIM    : 10119039
+// Kelas  : IF-1
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 

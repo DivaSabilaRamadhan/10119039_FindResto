@@ -8,6 +8,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+// Nama   : Diva Sabila Ramadhan
+// NIM    : 10119039
+// Kelas  : IF-1
+
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link FragmentAbout#newInstance} factory method to

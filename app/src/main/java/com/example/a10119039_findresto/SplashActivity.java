@@ -5,6 +5,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+// Nama   : Diva Sabila Ramadhan
+// NIM    : 10119039
+// Kelas  : IF-1
 
 public class SplashActivity extends AppCompatActivity {
 
