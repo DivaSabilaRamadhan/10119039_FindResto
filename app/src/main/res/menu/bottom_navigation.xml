@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lokasi"
+        android:icon="@drawable/ic_lokasi"
+        android:title="Lokasi">
+    </item>
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_about"
+        android:title="About">
+    </item>
+
+    <item
+        android:id="@+id/profil"
+        android:icon="@drawable/ic_profil"
+        android:title="Profile">
+    </item>
+</menu>

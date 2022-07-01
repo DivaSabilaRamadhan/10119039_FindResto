@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">10119039_FindResto</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="GETSTARTED">GET STARTED</string>
+
+    <string name="title1">Anda Ingin Referensi Makanan?</string>
+    <string name="title2">Mencari Tempat Makanan Yang Anda Cari</string>
+
+    <string name="desc1">Dengan Find Resto akan mencarikan Makanan yang sesuai dengan apa yang anda inginkan</string>
+    <string name="desc2">Find Resto akan mencarikan Lokasi Tempat Makanan terbaik Yang Anda Cari</string>
+
+</resources>
